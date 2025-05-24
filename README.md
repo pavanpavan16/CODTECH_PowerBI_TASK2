@@ -23,7 +23,7 @@ This project demonstrates data integration from two different sources—an Excel
 It showcases the ability to combine and transform multi-source data into a cohesive analytical report, essential for data-driven decision-making.
 
 🔗 Live Preview / Report File:
-Power BI file (.pbix) and SQL query script included in this repository.
+Power BI file (.pbix) included in this repository.
 
 🛠️ Tools & Technologies Used:
 Power BI
