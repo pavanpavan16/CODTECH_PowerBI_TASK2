@@ -20,7 +20,11 @@ Unified Sales Report from Excel and SQL Server
 This project demonstrates data integration from two different sources—an Excel sheet and a SQL Server database. The integrated dataset is used to create a unified report that provides insights into sales, customer segmentation, and product performance.
 
 📈 Summary:
-It showcases the ability to combine and transform multi-source data into a cohesive analytical report, essential for data-driven decision-making.
+Displays product performance and customer engagement. It includes total products, customer count, and sales, broken down by category, top 5 products, and customer names.
+
+## Why Used: To understand which products and customers drive sales, and categorize product performance.
+## Visuals Used: Card KPIs, Bar Chart, Pie Chart, Treemap.
+## Key Insights: Product popularity, category-wise contribution, and top customers by revenue and product count.
 
 🔗 Live Preview / Report File:
 Power BI file (.pbix) included in this repository.
