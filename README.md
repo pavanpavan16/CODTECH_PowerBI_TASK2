@@ -2,6 +2,20 @@
 📌 Project Title:
 Unified Sales Report from Excel and SQL Server
 
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PAVAN MANUMARRI
+
+*INTERN ID* : CT04DK572
+
+*DOMAIN* : POWER BI
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
+
 📄 Description:
 This project demonstrates data integration from two different sources—an Excel sheet and a SQL Server database. The integrated dataset is used to create a unified report that provides insights into sales, customer segmentation, and product performance.
 
